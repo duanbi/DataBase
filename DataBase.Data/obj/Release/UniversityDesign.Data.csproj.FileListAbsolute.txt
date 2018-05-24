@@ -1,0 +1,5 @@
+E:\UniversityDesign\UniversityDesign.Data\UniversityDesign.Data\bin\Release\UniversityDesign.Data.dll
+E:\UniversityDesign\UniversityDesign.Data\UniversityDesign.Data\bin\Release\UniversityDesign.Data.pdb
+E:\UniversityDesign\UniversityDesign.Data\UniversityDesign.Data\obj\Release\UniversityDesign.Data.csprojResolveAssemblyReference.cache
+E:\UniversityDesign\UniversityDesign.Data\UniversityDesign.Data\obj\Release\UniversityDesign.Data.dll
+E:\UniversityDesign\UniversityDesign.Data\UniversityDesign.Data\obj\Release\UniversityDesign.Data.pdb

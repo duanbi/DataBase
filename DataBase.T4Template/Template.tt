@@ -1,0 +1,12 @@
+﻿<#@ template debug="True" hostspecific="True" language="C#" #>
+<#@ assembly name="$(TargetDir)DataBase.T4Template.dll" #>
+<#@ import namespace="DataBase.T4Template" #>
+<#@ output extension=".cs" #>
+<#
+    T4Helper dbRender = new T4Helper(this.Host.TemplateFile,"CarrefourEC");//数据库名
+    dbRender.NamespaceStr="DataBase.Test.TableEntity";//命名空间
+    dbRender.TableName = "Bank";//生成的实体表名
+    dbRender.ColumnsPrefix = "";//生成属性要忽略的前缀
+    dbRender.EntitySuffix = "Entity";//生成实体名后缀，可不传默认为Entity
+    this.WriteLine(dbRender.Render());//执行生成
+#>

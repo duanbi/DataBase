@@ -1,0 +1,4 @@
+D:\duanbi\DataBase\UniversityDesign.Data\bin\Debug\UniversityDesign.Data.dll
+D:\duanbi\DataBase\UniversityDesign.Data\bin\Debug\UniversityDesign.Data.pdb
+D:\duanbi\DataBase\UniversityDesign.Data\obj\Debug\UniversityDesign.Data.dll
+D:\duanbi\DataBase\UniversityDesign.Data\obj\Debug\UniversityDesign.Data.pdb

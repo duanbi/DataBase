@@ -1,0 +1,11 @@
+E:\UniversityDesign\UniversityDesign.Data\UniversityDesign.T4Template\bin\Debug\UniversityDesign.T4Template.dll.config
+E:\UniversityDesign\UniversityDesign.Data\UniversityDesign.T4Template\bin\Debug\UniversityDesign.T4Template.dll
+E:\UniversityDesign\UniversityDesign.Data\UniversityDesign.T4Template\bin\Debug\UniversityDesign.T4Template.pdb
+E:\UniversityDesign\UniversityDesign.Data\UniversityDesign.T4Template\bin\Debug\DatabaseSchemaReader.dll
+E:\UniversityDesign\UniversityDesign.Data\UniversityDesign.T4Template\bin\Debug\DatabaseSchemaReader.xml
+E:\UniversityDesign\UniversityDesign.Data\UniversityDesign.T4Template\obj\Debug\UniversityDesign.T4Template.dll
+E:\UniversityDesign\UniversityDesign.Data\UniversityDesign.T4Template\obj\Debug\UniversityDesign.T4Template.pdb
+E:\UniversityDesign\UniversityDesign.Data\UniversityDesign.T4Template\bin\Debug\App.config
+E:\UniversityDesign\UniversityDesign.Data\UniversityDesign.T4Template\bin\Debug\UniversityDesign.Data.dll
+E:\UniversityDesign\UniversityDesign.Data\UniversityDesign.T4Template\bin\Debug\UniversityDesign.Data.pdb
+E:\UniversityDesign\UniversityDesign.Data\UniversityDesign.T4Template\obj\Debug\UniversityDesign.T4Template.csprojResolveAssemblyReference.cache

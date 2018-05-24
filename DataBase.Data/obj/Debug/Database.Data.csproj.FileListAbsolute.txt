@@ -2,3 +2,8 @@ D:\duanbi\DataBase\UniversityDesign.Data\bin\Debug\UniversityDesign.Data.dll
 D:\duanbi\DataBase\UniversityDesign.Data\bin\Debug\UniversityDesign.Data.pdb
 D:\duanbi\DataBase\UniversityDesign.Data\obj\Debug\UniversityDesign.Data.dll
 D:\duanbi\DataBase\UniversityDesign.Data\obj\Debug\UniversityDesign.Data.pdb
+D:\duanbi\DataBase\DataBase.Data\bin\Debug\DataBase.Data.dll
+D:\duanbi\DataBase\DataBase.Data\bin\Debug\DataBase.Data.pdb
+D:\duanbi\DataBase\DataBase.Data\obj\Debug\Database.Data.csprojResolveAssemblyReference.cache
+D:\duanbi\DataBase\DataBase.Data\obj\Debug\DataBase.Data.dll
+D:\duanbi\DataBase\DataBase.Data\obj\Debug\DataBase.Data.pdb
